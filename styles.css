@@ -1,0 +1,30 @@
+body{
+ margin:1%;
+ background-color: aliceblue;
+ padding: 20px;
+
+}
+header{
+    text-align: center;
+    color: blue;
+    font-size: x-large length="300 ";
+    font-family:cursive ;
+    text-shadow: 2px 4px pink;
+}
+main{
+    display: flex;
+    padding: 12px;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px wheat;
+
+}
+article{
+    padding: 10px;
+    border:10px solid black;
+}
+section,footer{
+    text-align: center;
+    padding: 24px;
+    background-color: rgb(217,213 ,234);
+
+}
